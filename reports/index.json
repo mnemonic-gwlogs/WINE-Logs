@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260215-144043-dgr3",
+    "title": "Alàide, Sorrows Occultist",
+    "commanders": [
+      "Alàide",
+      "Sorrows Occultist"
+    ],
+    "dateStart": "2026-02-15T20:40:43.000Z",
+    "dateEnd": "2026-02-15T23:00:24.000Z",
+    "dateLabel": "2/15/2026, 2:40:43 PM - 2/15/2026, 5:00:24 PM",
+    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260215-144043-dgr3",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 37
+    }
+  },
+  {
     "id": "20260215-144043-7asm",
     "title": "Alàide, Sorrows Occultist",
     "commanders": [
