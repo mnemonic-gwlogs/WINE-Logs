@@ -1,5 +1,30 @@
 [
   {
+    "id": "20260220-074637-u97q",
+    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+    "commanders": [
+      "Alpha Thug",
+      "Fiddyb",
+      "Mofo Mafia"
+    ],
+    "dateStart": "2026-02-20T13:46:37.000Z",
+    "dateEnd": "2026-02-20T14:52:05.000Z",
+    "dateLabel": "2/20/2026, 7:46:37 AM - 2/20/2026, 8:52:05 AM",
+    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260220-074637-u97q",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 52
+    }
+  },
+  {
     "id": "20260215-144043-dgr3",
     "title": "Alàide, Sorrows Occultist",
     "commanders": [
