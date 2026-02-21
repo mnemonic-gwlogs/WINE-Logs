@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260221-150221-4k1f",
+    "title": "Notzwollf",
+    "commanders": [
+      "Notzwollf"
+    ],
+    "dateStart": "2026-02-21T21:02:21.000Z",
+    "dateEnd": "2026-02-21T23:01:31.000Z",
+    "dateLabel": "2/21/2026, 3:02:21 PM - 2/21/2026, 5:01:31 PM",
+    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260221-150221-4k1f",
+    "summary": {
+      "borderlandsPct": 0.058823529411764705,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 38
+    }
+  },
+  {
     "id": "20260220-074637-u97q",
     "title": "Alpha Thug, Fiddyb, Mofo Mafia",
     "commanders": [
