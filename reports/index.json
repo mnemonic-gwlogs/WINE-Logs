@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260301-150512-qr7z",
+    "title": "Alàide",
+    "commanders": [
+      "Alàide"
+    ],
+    "dateStart": "2026-03-01T21:05:12.000Z",
+    "dateEnd": "2026-03-01T22:52:31.000Z",
+    "dateLabel": "3/1/2026, 3:05:12 PM - 3/1/2026, 4:52:31 PM",
+    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260301-150512-qr7z",
+    "summary": {
+      "borderlandsPct": 0.125,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260221-150221-4k1f",
     "title": "Notzwollf",
     "commanders": [
