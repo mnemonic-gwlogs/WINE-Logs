@@ -1,136 +1,172 @@
-[
-  {
-    "id": "20260301-150512-qr7z",
-    "title": "Alàide",
-    "commanders": [
-      "Alàide"
-    ],
-    "dateStart": "2026-03-01T21:05:12.000Z",
-    "dateEnd": "2026-03-01T22:52:31.000Z",
-    "dateLabel": "3/1/2026, 3:05:12 PM - 3/1/2026, 4:52:31 PM",
-    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260301-150512-qr7z",
-    "summary": {
-      "borderlandsPct": 0.125,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 14,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
-      ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 36
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260221-150221-4k1f",
-    "title": "Notzwollf",
-    "commanders": [
-      "Notzwollf"
-    ],
-    "dateStart": "2026-02-21T21:02:21.000Z",
-    "dateEnd": "2026-02-21T23:01:31.000Z",
-    "dateLabel": "2/21/2026, 3:02:21 PM - 2/21/2026, 5:01:31 PM",
-    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260221-150221-4k1f",
-    "summary": {
-      "borderlandsPct": 0.058823529411764705,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260307-071845-t7ik",
+      "title": "Alpha Thug, Rïo Grande",
+      "commanders": [
+        "Alpha Thug",
+        "Rïo Grande"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260220-074637-u97q",
-    "title": "Alpha Thug, Fiddyb, Mofo Mafia",
-    "commanders": [
-      "Alpha Thug",
-      "Fiddyb",
-      "Mofo Mafia"
-    ],
-    "dateStart": "2026-02-20T13:46:37.000Z",
-    "dateEnd": "2026-02-20T14:52:05.000Z",
-    "dateLabel": "2/20/2026, 7:46:37 AM - 2/20/2026, 8:52:05 AM",
-    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260220-074637-u97q",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-07T13:18:45.000Z",
+      "dateEnd": "2026-03-07T15:01:39.000Z",
+      "dateLabel": "3/7/2026, 7:18:45 AM - 3/7/2026, 9:01:39 AM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260307-071845-t7ik",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 47
+      }
+    },
+    {
+      "id": "20260301-150512-qr7z",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
       ],
-      "avgSquadSize": 34,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260215-144043-dgr3",
-    "title": "Alàide, Sorrows Occultist",
-    "commanders": [
-      "Alàide",
-      "Sorrows Occultist"
-    ],
-    "dateStart": "2026-02-15T20:40:43.000Z",
-    "dateEnd": "2026-02-15T23:00:24.000Z",
-    "dateLabel": "2/15/2026, 2:40:43 PM - 2/15/2026, 5:00:24 PM",
-    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260215-144043-dgr3",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 19,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-01T21:05:12.000Z",
+      "dateEnd": "2026-03-01T22:52:31.000Z",
+      "dateLabel": "3/1/2026, 3:05:12 PM - 3/1/2026, 4:52:31 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260301-150512-qr7z",
+      "summary": {
+        "borderlandsPct": 0.125,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260221-150221-4k1f",
+      "title": "Notzwollf",
+      "commanders": [
+        "Notzwollf"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260215-144043-7asm",
-    "title": "Alàide, Sorrows Occultist",
-    "commanders": [
-      "Alàide",
-      "Sorrows Occultist"
-    ],
-    "dateStart": "2026-02-15T20:40:43.000Z",
-    "dateEnd": "2026-02-15T23:00:24.000Z",
-    "dateLabel": "2/15/2026, 2:40:43 PM - 2/15/2026, 5:00:24 PM",
-    "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260215-144043-7asm",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 9,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-21T21:02:21.000Z",
+      "dateEnd": "2026-02-21T23:01:31.000Z",
+      "dateLabel": "2/21/2026, 3:02:21 PM - 2/21/2026, 5:01:31 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260221-150221-4k1f",
+      "summary": {
+        "borderlandsPct": 0.058823529411764705,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260220-074637-u97q",
+      "title": "Alpha Thug, Fiddyb, Mofo Mafia",
+      "commanders": [
+        "Alpha Thug",
+        "Fiddyb",
+        "Mofo Mafia"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 41
+      "dateStart": "2026-02-20T13:46:37.000Z",
+      "dateEnd": "2026-02-20T14:52:05.000Z",
+      "dateLabel": "2/20/2026, 7:46:37 AM - 2/20/2026, 8:52:05 AM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260220-074637-u97q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260215-144043-dgr3",
+      "title": "Alàide, Sorrows Occultist",
+      "commanders": [
+        "Alàide",
+        "Sorrows Occultist"
+      ],
+      "dateStart": "2026-02-15T20:40:43.000Z",
+      "dateEnd": "2026-02-15T23:00:24.000Z",
+      "dateLabel": "2/15/2026, 2:40:43 PM - 2/15/2026, 5:00:24 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260215-144043-dgr3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260215-144043-7asm",
+      "title": "Alàide, Sorrows Occultist",
+      "commanders": [
+        "Alàide",
+        "Sorrows Occultist"
+      ],
+      "dateStart": "2026-02-15T20:40:43.000Z",
+      "dateEnd": "2026-02-15T23:00:24.000Z",
+      "dateLabel": "2/15/2026, 2:40:43 PM - 2/15/2026, 5:00:24 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260215-144043-7asm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 41
+      }
     }
-  }
-]
+  ]
+}
