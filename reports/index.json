@@ -6,6 +6,31 @@
   },
   "entries": [
     {
+      "id": "20260314-150529-f94s",
+      "title": "Alàide, Notzwollf, Snarkburner",
+      "commanders": [
+        "Alàide",
+        "Notzwollf",
+        "Snarkburner"
+      ],
+      "dateStart": "2026-03-14T20:05:29.000Z",
+      "dateEnd": "2026-03-14T22:00:32.000Z",
+      "dateLabel": "3/14/2026, 3:05:29 PM - 3/14/2026, 5:00:32 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260314-150529-f94s",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260308-150742-3f6i",
       "title": "Alaidè, Alàide, Wollfl",
       "commanders": [
