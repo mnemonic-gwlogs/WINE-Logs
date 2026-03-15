@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260315-150746-57x9",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-03-15T20:07:46.000Z",
+      "dateEnd": "2026-03-15T22:08:04.000Z",
+      "dateLabel": "3/15/2026, 3:07:46 PM - 3/15/2026, 5:08:04 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260315-150746-57x9",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260314-150529-f94s",
       "title": "Alàide, Notzwollf, Snarkburner",
       "commanders": [
