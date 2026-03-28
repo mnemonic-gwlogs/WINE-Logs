@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": true,
   "entries": [
+    {
+      "id": "20260328-152508-w44e",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-03-28T20:25:08.000Z",
+      "dateEnd": "2026-03-28T21:58:32.000Z",
+      "dateLabel": "3/28/2026, 3:25:08 PM - 3/28/2026, 4:58:32 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260328-152508-w44e",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260322-151108-txee",
       "title": "Alàide",
