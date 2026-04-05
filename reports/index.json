@@ -3,6 +3,40 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260405-160646-tw8u",
+      "title": "Alàide, Notzwollf",
+      "commanders": [
+        "Alàide",
+        "Notzwollf"
+      ],
+      "dateStart": "2026-04-05T21:06:46.000Z",
+      "dateEnd": "2026-04-05T23:01:57.000Z",
+      "dateLabel": "4/5/2026, 4:06:46 PM - 4/5/2026, 6:01:57 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260405-160646-tw8u",
+      "summary": {
+        "borderlandsPct": 0.4666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 6,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260329-150557-3di4",
       "title": "Alàide",
       "commanders": [
