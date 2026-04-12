@@ -3,6 +3,40 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260412-154436-w1mn",
+      "title": "Alàide, Grimaldi",
+      "commanders": [
+        "Alàide",
+        "Grimaldi"
+      ],
+      "dateStart": "2026-04-12T20:44:36.000Z",
+      "dateEnd": "2026-04-12T22:46:35.000Z",
+      "dateLabel": "4/12/2026, 3:44:36 PM - 4/12/2026, 5:46:35 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260412-154436-w1mn",
+      "summary": {
+        "borderlandsPct": 0.15384615384615385,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260411-160318-8zvq",
       "title": "Alàide",
       "commanders": [
