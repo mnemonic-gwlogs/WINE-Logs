@@ -3,6 +3,29 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260413-160930-dx5b",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-04-13T21:09:30.000Z",
+      "dateEnd": "2026-04-13T23:03:16.000Z",
+      "dateLabel": "4/13/2026, 4:09:30 PM - 4/13/2026, 6:03:16 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260413-160930-dx5b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260412-154436-w1mn",
       "title": "Alàide, Grimaldi",
       "commanders": [
