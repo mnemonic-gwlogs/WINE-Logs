@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260419-160522-12x5",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-04-19T21:05:22.000Z",
+      "dateEnd": "2026-04-19T23:00:26.000Z",
+      "dateLabel": "4/19/2026, 4:05:22 PM - 4/19/2026, 6:00:26 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260419-160522-12x5",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 10,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260413-160930-dx5b",
       "title": "Alàide",
       "commanders": [
