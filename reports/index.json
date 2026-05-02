@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260502-160541-tyu6",
+      "title": "Alàide, Sorrows Armor",
+      "commanders": [
+        "Alàide",
+        "Sorrows Armor"
+      ],
+      "dateStart": "2026-05-02T21:05:41.000Z",
+      "dateEnd": "2026-05-02T22:59:01.000Z",
+      "dateLabel": "5/2/2026, 4:05:41 PM - 5/2/2026, 5:59:01 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260502-160541-tyu6",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 10,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260426-160125-oo8c",
       "title": "Alàide",
       "commanders": [
