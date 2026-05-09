@@ -1,7 +1,41 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260509-161447-x4a0",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-05-09T21:14:47.000Z",
+      "dateEnd": "2026-05-09T22:51:25.000Z",
+      "dateLabel": "5/9/2026, 4:14:47 PM - 5/9/2026, 5:51:25 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260509-161447-x4a0",
+      "summary": {
+        "borderlandsPct": 0.6,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20260502-160541-tyu6",
       "title": "Alàide, Sorrows Armor",
