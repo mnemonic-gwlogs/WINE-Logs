@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260523-161331-g2xw",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-05-23T21:13:31.000Z",
+      "dateEnd": "2026-05-23T22:58:58.000Z",
+      "dateLabel": "5/23/2026, 4:13:31 PM - 5/23/2026, 5:58:58 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260523-161331-g2xw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260522-210930-16vd",
       "title": "Alàide",
       "commanders": [
