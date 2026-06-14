@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-160447-2un3",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "dateStart": "2026-06-14T21:04:47.000Z",
+      "dateEnd": "2026-06-14T22:47:44.000Z",
+      "dateLabel": "6/14/2026, 4:04:47 PM - 6/14/2026, 5:47:44 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260614-160447-2un3",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260614-083413-qqp8",
       "title": "Alpha Thug",
       "commanders": [
