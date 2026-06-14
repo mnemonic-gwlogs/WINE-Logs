@@ -1,8 +1,36 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": true,
+  "glassSurfaces": false,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260614-083413-qqp8",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-06-14T13:34:13.000Z",
+      "dateEnd": "2026-06-14T15:09:12.000Z",
+      "dateLabel": "6/14/2026, 8:34:13 AM - 6/14/2026, 10:09:12 AM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260614-083413-qqp8",
+      "summary": {
+        "borderlandsPct": 0.15,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20260530-161238-gh3v",
       "title": "Alàide",
