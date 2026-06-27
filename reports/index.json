@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-160908-twv7",
+      "title": "Alàide, Nyzkie",
+      "commanders": [
+        "Alàide",
+        "Nyzkie"
+      ],
+      "dateStart": "2026-06-27T21:09:08.000Z",
+      "dateEnd": "2026-06-27T23:04:43.000Z",
+      "dateLabel": "6/27/2026, 4:09:08 PM - 6/27/2026, 6:04:43 PM",
+      "url": "https://mnemonic-gwlogs.github.io/WINE-Logs/?report=20260627-160908-twv7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260622-162815-qf88",
       "title": "Alàide",
       "commanders": [
